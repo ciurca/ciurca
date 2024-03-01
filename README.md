@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 🎓 I’m currently studying Business Information Systems @ Babeș Bolyai University in Cluj-Napoca, Romania 
 - 🌱 I’m currently learning C# and .NET
 - 🔭 I've worked with the following technologies: Oracle PL/SQL, MongoDB, ASP.NET, PHP, Laravel, NodeJS, SQL
-- ⚡ Overall interested in business process automation and how traditional development languagesa and frameworks can make an impact paired with RPA and low-code tools
+- ⚡ Overall interested in business process automation and how traditional development languages/frameworks can make an impact paired with RPA and low-code tools
