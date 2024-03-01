@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ciurca/ciurca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Radu's github stats](https://github-readme-stats.vercel.app/api?username=ciurca)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Radu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ciurca)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+- 🎓 I’m currently studying Business Information Systems @ Babeș Bolyai University in Cluj-Napoca, Romania 
+- 🌱 I’m currently learning C# and .NET
+- 🔭 I've worked with the following technologies: Oracle PL/SQL, MongoDB, ASP.NET, PHP, Laravel, NodeJS, SQL
+- ⚡ Overall interested in business process automation and how traditional development languagesa and frameworks can make an impact paired with RPA and low-code tools
